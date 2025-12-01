@@ -1,3 +1,5 @@
+package PrefixSum;
+
 class Solution {
     public int findMiddleIndex(int[] nums) {
         int preSum [] = new int[nums.length];
